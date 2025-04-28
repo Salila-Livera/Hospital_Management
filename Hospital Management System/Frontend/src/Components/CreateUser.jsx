@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import doctor from '../assets/doctor.jpg';
 
+//funtions
 function CreateUser() {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
