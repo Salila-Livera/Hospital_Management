@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^5.0.2",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
